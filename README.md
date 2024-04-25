@@ -1,1 +1,2 @@
-# Passwdgen
+SecureRCheck
+Password Strength Analyzer
